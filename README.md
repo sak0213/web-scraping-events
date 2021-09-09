@@ -1,4 +1,4 @@
-# ReadMe
+# Web Scraping Events in Atlanta
 We would like to create databases of upcoming local events at 4 different venues in Atlanta: Terminal West, Colony Square, Ponce City Market, and Atlantic Station.
 
 We are doing this by scraping their calendar sites and then converting the necessary information into MongoDB in order to make a table for upcoming events at each venue.
